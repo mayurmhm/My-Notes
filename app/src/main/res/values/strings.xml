@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="txt_no_account_signup">Don\'t have an account? <font color="#2196F3">Register Now</font></string>
+    <string name="txt_register_header">Create New Account</string>
+    <string name="txt_register_subheader">Please provide all the required information</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_username_hint">user123</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_email_hint">user123@gmail.com</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_password_hint">........</string>
+    <string name="txt_sign_up">Sign Up</string>
+    <string name="txt_already_have_account">Already have an account?</string>
+    <string name="txt_login_header">Welcome Back!</string>
+    <string name="txt_login_subheader">Login to access your notes</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_error_message">%1$S*</string>
+    <string name="note_title">Title</string>
+    <string name="txt_title_hint">Write your title</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_description_hint">Write your description</string>
+    <string name="txt_submit">Submit</string>
+    <string name="add_note">Add Note</string>
+    <string name="notes">Notes</string>
+    <string name="how_to_draw_a_professional_wireframe">How to draw a professional wireframe?</string>
+    <string name="for_wireframe_you_need_to_have_access_to_the_tools_required_you_need_to_check_the_description_of_the_tool_to_understand_the_underpinnings_of_the_tool">For wireframe, you need to have access to the tools required. You need to check the description of the tool to understand the underpinnings of the tool.</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
